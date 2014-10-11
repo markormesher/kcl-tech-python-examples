@@ -7,4 +7,4 @@ Examples are often added during and after lectures. They are designed to help at
 
 The code samples here are completely public - use them however you wish.
 
-If you want to discuss any of these examples or if you have questions, head over to KCL Tech's public Slack (kcltechhq.slack.com) and talk to the rest of the society - someone there will help you. If you want to talk to me directly, just tag me or message me on Slack - my username is @markormesher.
+If you want to discuss any of these examples or if you have questions, head over to KCL Tech's public Slack (kcltechhq.slack.com) and check out the #beginner-programming channel - someone there will help you. If you want to talk to me directly, just tag me or message me on Slack - my username is @markormesher.

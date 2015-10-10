@@ -1,5 +1,4 @@
 # prints the nth fibonacci number
-
 def fib(n):
 	# check that the fibonacci number being asked for is valid
 	assert n >= 0
